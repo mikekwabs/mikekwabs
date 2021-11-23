@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **mikekwabs/mikekwabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on building full fuctioning apps with django and react, designing cloud architecture on GCP, also creating NLP models
 - 🌱 I’m currently learning GCP
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mikekobby10@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Just a cool guy, not nerdy😋
--->
+
