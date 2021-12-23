@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on building full fuctioning apps with django and react, designing cloud architecture on GCP, also creating NLP models
-- 🌱 I’m currently learning GCP
-- 👯 I’m looking to collaborate on django and data science projects
+- 🔭 I’m currently learning flutter; 
+- 🌱 I’m open for collaboration on projects
 - 💬 Ask me about anything, feel free
 - 📫 How to reach me: mikekobby10@gmail.com
 - 😄 Pronouns: Mr.
